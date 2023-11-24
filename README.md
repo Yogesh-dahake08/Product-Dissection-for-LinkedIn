@@ -24,7 +24,7 @@ Real-World Challenge : Many organizations struggled to diversify their workforce
 LinkedIn’s Solution :
 LinkedIn introduced a feature that allows companies to anonymize applicant profiles during the initial stages of the hiring process. This helps reduce bias in hiring decisions by focusing on skills and qualifications rather than personal information, leading to more inclusive hiring practices.
 
-** Problem 4: Spam and Inauthentic Profiles**
+**Problem 4: Spam and Inauthentic Profiles**
 
 Real-World Challenges : LinkedIn faced an increasing number of fake profiles and spam content, which undermined the platform's credibility.
 
